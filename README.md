@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @THU-FIB-RuiChen
-- 👀 I’m interested in Federated Learning and urban science. 
+- 👀 I’m interested in Federated Learning and Urban Science. 
 - 🌱 I’m currently learning the practical Federated Learning in daily life.
-- 💞️ I’m looking to collaborate on anybody interested in Federated Learning and distributing training.
+- 💞️ I’m looking to collaborate on anybody interested in Federated Learning and Distributing Training.
 - 📫 Email-address: 1652466254@qq.com
 
 <!---
